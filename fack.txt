@@ -1,6 +1,3 @@
-<<<<<<< HEAD
+
 Do you like???
 i don't like
-=======
-Do you like??? me
->>>>>>> 33d049a8d3ae0ba6eda1c895f4756d408cd0a7ad
